@@ -2,8 +2,9 @@
 
 **Systems, software, and audio.**
 
-I build and maintain practical systems — from Linux servers and automation tools  
-to web services and live audio environments.
+I like understanding how things work and why they fail.
+
+Most of what I work on falls somewhere between Linux systems, software, automation, and live audio.
 
 `Linux` · `Python` · `Java` · `Automation` · `Audio`
 
@@ -13,34 +14,43 @@ to web services and live audio environments.
 
 ### Systems
 
-I run and maintain my own Linux infrastructure, with a focus on reliability,
-remote administration, and keeping services simple enough to understand.
+I run and maintain my own Linux infrastructure.
 
 - Linux server administration
-- Self-hosted infrastructure
-- Networking and service maintenance
-- Troubleshooting and system optimization
+- Self-hosted services
+- Networking
+- Troubleshooting and optimization
 
 ### Software
 
-I mostly write software when there is an actual problem I want to solve.
+I usually write software when I have a problem I want to solve.
 
-- **Python** — automation, tooling, data processing
+- **Python** — automation, tools, data processing
 - **Java** — applications and server-side projects
-- API / service integration
+- APIs and service integration
 - Workflow automation
-- Internal tools for repetitive operational work
+- Small internal tools
 
 ### Audio
 
-Audio is another technical field I spend a lot of time on.
+I also spend a lot of time working with live audio systems.
 
-- Live sound systems
-- PA system design and analysis
+- Live sound
+- PA systems
 - Signal flow
 - System tuning
 - Monitoring and stage audio
 - Technical analysis of live performances
+
+---
+
+## How I work
+
+I usually start by figuring out how a system actually behaves before changing anything.
+
+Whether it's a server, a piece of software, or an audio system, I like tracing the problem, finding the real bottleneck, and keeping the solution as simple as possible.
+
+A lot of my projects started because I needed something myself.
 
 ---
 
@@ -49,28 +59,15 @@ Audio is another technical field I spend a lot of time on.
 | Area | Technologies |
 | --- | --- |
 | **Languages** | Python, Java |
-| **Systems** | Linux, Ubuntu |
+| **Systems** | Linux, Ubuntu, Networking |
 | **Audio** | Live Sound, PA Systems, System Analysis |
-
----
-
-## How I work
-
-I like understanding a system before trying to improve it.
-
-That usually means tracing how each part behaves, finding the actual bottleneck,
-and building the smallest reliable solution rather than adding unnecessary complexity.
-
-A lot of my projects start as something I needed myself:
-a repetitive workflow to automate, a server to maintain, a service to repair,
-or a technical problem that was interesting enough to investigate.
 
 ---
 
 ## Currently interested in
 
 - Linux and self-hosted infrastructure
-- Automation and operational tooling
+- Automation and tooling
 - System architecture
 - Live sound engineering
 - Audio systems and acoustics
@@ -80,7 +77,7 @@ or a technical problem that was interesting enough to investigate.
 ## Links
 
 **Portfolio**  
-[jiyoung.win](https://jiyoung.win)
+[jiyoung.win](https://jiyoung.win/)
 
 **Web Project**  
-[rescene-remine.com](https://rescene-remine.com)
+[rescene-remine.com](https://rescene-remine.com/)
