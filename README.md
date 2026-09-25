@@ -1,4 +1,4 @@
-# JiYoungBell
+# jiyoungbell
 
 **Systems, software, and audio.**
 
@@ -76,8 +76,8 @@ A lot of my projects started because I needed something myself.
 
 ## Links
 
-**Portfolio**  
-[jiyoung.win](https://jiyoung.win/)
+**Blog**  
+[jiyoung.win](https://jblog.jiyoung.win/)
 
-**Web Project**  
-[rescene-remine.com](https://rescene-remine.com/)
+**Status**  
+[rescene-remine.com](https://status.jiyoung.win/)
