@@ -1,83 +1,29 @@
 # jiyoungbell
 
-**Systems, software, and audio.**
+I design and build systems with a lot of moving parts. Most of what I make runs on [a small server under my desk](https://jiyoung.win/status).
 
-I like understanding how things work and why they fail.
+## Work
 
-Most of what I work on falls somewhere between Linux systems, software, automation, and live audio.
+Three systems I designed, built and still run. The diagrams and design notes are on [jiyoung.win/work](https://jiyoung.win/work/).
 
-`Linux` · `Python` · `Java` · `Automation` · `Audio`
+### [Friday](https://jiyoung.win/work/#friday)
 
----
+A personal assistant that spans my iPhone, my Linux laptop and my home server. Notifications, messages, mail and feeds all go through one pipeline that sorts them, links them to work in progress, and decides whether to interrupt me—and on which screen.
 
-## What I work on
+TypeScript on Node’s built-in HTTP server and SQLite, plain HTML and JS, Electron and a GNOME extension · 2026
 
-### Systems
+### [Home server](https://jiyoung.win/work/#home-server)
 
-I run and maintain my own Linux infrastructure.
+A Dell OptiPlex under my desk runs two dozen containers—including [this site](https://jiyoung.win)—for me and the teams I build tools for. Every change goes through a merge request, every deploy runs a health check, and a second machine watches it from the outside.
 
-- Linux server administration
-- Self-hosted services
-- Networking
-- Troubleshooting and optimization
+Debian 13 · Docker Compose, Caddy, self-hosted GitLab, Tailscale, restic · ongoing
 
-### Software
+### [Codex threads](https://jiyoung.win/work/#codex-threads)
 
-I usually write software when I have a problem I want to solve.
+A Discord forum where every thread is its own Codex coding session, open to everyone on the server. Because anyone can type into it, the design treats every message as hostile and enforces isolation with operating system users and per-thread sandboxes.
 
-- **Python** — automation, tools, data processing
-- **Java** — applications and server-side projects
-- APIs and service integration
-- Workflow automation
-- Small internal tools
-
-### Audio
-
-I also spend a lot of time working with live audio systems.
-
-- Live sound
-- PA systems
-- Signal flow
-- System tuning
-- Monitoring and stage audio
-- Technical analysis of live performances
-
----
-
-## How I work
-
-I usually start by figuring out how a system actually behaves before changing anything.
-
-Whether it's a server, a piece of software, or an audio system, I like tracing the problem, finding the real bottleneck, and keeping the solution as simple as possible.
-
-A lot of my projects started because I needed something myself.
-
----
-
-## Stack
-
-| Area | Technologies |
-| --- | --- |
-| **Languages** | Python, Java |
-| **Systems** | Linux, Ubuntu, Networking |
-| **Audio** | Live Sound, PA Systems, System Analysis |
-
----
-
-## Currently interested in
-
-- Linux and self-hosted infrastructure
-- Automation and tooling
-- System architecture
-- Live sound engineering
-- Audio systems and acoustics
-
----
+Python 3.12, discord.py, Codex SDK, systemd, SQLite · 2026
 
 ## Links
 
-**Blog**  
-[jiyoung.win](https://jblog.jiyoung.win/)
-
-**Status**  
-[rescene-remine.com](https://status.jiyoung.win/)
+[jiyoung.win](https://jiyoung.win) · [Work](https://jiyoung.win/work/) · [Status](https://jiyoung.win/status) · [Mail](mailto:jiyoungbell@mail.grokbot.com)
